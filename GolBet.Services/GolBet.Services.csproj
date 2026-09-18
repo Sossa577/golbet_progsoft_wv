@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\GolBet.Repositories\GolBet.Repositories.csproj" />
     <ProjectReference Include="..\GolBet.Entities\GolBet.Entities.csproj" />
   </ItemGroup>
 
