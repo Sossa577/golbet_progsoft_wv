@@ -2,6 +2,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GolBet.Entities\GolBet.Entities.csproj" />
+    <ProjectReference Include="..\GolBet.repositories\GolBet.Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
   </ItemGroup>
 
   <PropertyGroup>
